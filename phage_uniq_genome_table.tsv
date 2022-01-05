@@ -1,0 +1,177 @@
+position	mutation	an_p	P_D_8_1	P_D_8_2	P_D_8_3	P_D_8_4	P_D_8_5	P_D_8_6	P_D_8_9	P_D_8_11	P_D_15_1	P_D_15_3	P_D_15_4	P_D_15_7	P_D_15_8	P_D_15_9	P_D_15_10	P_D_15_11	P_D_22_1	P_D_22_3	P_D_22_7	P_D_22_8	P_D_22_9	P_D_22_10	P_D_22_11	P_D_28_1	P_D_28_2	P_D_28_3	P_D_28_4	P_D_28_5	P_D_28_6	P_D_28_7	P_D_28_8	P_D_28_9	P_D_28_10	P_D_28_11	annotation	gene	description	init_appear_day	nonsyn_mutation
+175	T→G																																100%				intergenic (–/‑15)	– / → nu1	–/DNA packaging protein	28	0
+327	C→T																																100%				V46V (GTC→GTT)	nu1 →	DNA packaging protein	28	0
+332	A→G																																100%				K48R (AAA→AGA)	nu1 →	DNA packaging protein	28	1
+384	G→A																																100%				E65E (GAG→GAA)	nu1 →	DNA packaging protein	28	0
+412	G→A																																100%		100%		A75T (GCA→ACA)	nu1 →	DNA packaging protein	28	1
+429	A→G																																100%		100%		G80G (GGA→GGG)	nu1 →	DNA packaging protein	28	0
+483	A→G																																100%		100%		E98E (GAA→GAG)	nu1 →	DNA packaging protein	28	0
+489	G→A																																100%		100%		K100K (AAG→AAA)	nu1 →	DNA packaging protein	28	0
+583	C→A																																100%		100%		L132I (CTC→ATC)	nu1 →	DNA packaging protein	28	1
+9,067	T→C							100%																													R38R (CGT→CGC)	V →	tail component	8	0
+11,451	C→T										100%	100%	100%	100%		100%		100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	A304V (GCA→GTA)	H →	tail component	15	1
+15,890	A→G						100%				100%	100%				100%	100%	100%																			D129G (GAC→GGC)	J →	tail:host specificity protein	8	1
+16,218	G→T										100%	100%				100%	100%	100%																			L238L (CTG→CTT)	J →	tail:host specificity protein	15	0
+16,227	T→C										100%	100%				100%	100%	100%																			R241R (CGT→CGC)	J →	tail:host specificity protein	15	0
+16,299	A→G										100%	100%				100%	100%	100%																			K265K (AAA→AAG)	J →	tail:host specificity protein	15	0
+16,318	2 bp→CC										100%	100%				100%	100%	100%																			coding (814‑815/3399 nt)	J →	tail:host specificity protein	15	1
+16,350	T→C										100%	100%				100%	100%	100%																			H282H (CAT→CAC)	J →	tail:host specificity protein	15	0
+16,449	C→T				100%						100%	100%				100%	100%	100%																			G315G (GGC→GGT)	J →	tail:host specificity protein	8	0
+16,485	G→C				?						100%	100%				100%	100%	100%																			A327A (GCG→GCC)	J →	tail:host specificity protein	15	0
+16,497	A→G										100%	100%				100%	100%	100%																			T331T (ACA→ACG)	J →	tail:host specificity protein	15	0
+16,524	C→T										100%	100%				100%	100%	100%																			S340S (AGC→AGT)	J →	tail:host specificity protein	15	0
+16,596	G→A				?						100%	100%				100%	100%	100%																			P364P (CCG→CCA)	J →	tail:host specificity protein	15	0
+16,599	G→A										100%	100%				100%	100%	100%																			S365S (TCG→TCA)	J →	tail:host specificity protein	15	0
+16,606	2 bp→GT										100%	100%				100%	100%	100%																			coding (1102‑1103/3399 nt)	J →	tail:host specificity protein	15	1
+16,725	C→T										100%	100%			100%	100%	100%	100%																			N407N (AAC→AAT)	J →	tail:host specificity protein	15	0
+16,774	2 bp→CT										100%	100%			100%	100%	100%	100%																			coding (1270‑1271/3399 nt)	J →	tail:host specificity protein	15	1
+16,791	T→C										100%	100%			100%	100%	100%	100%																			N429N (AAT→AAC)	J →	tail:host specificity protein	15	0
+16,794	T→C										100%	100%			100%	100%	100%	100%																			V430V (GTT→GTC)	J →	tail:host specificity protein	15	0
+16,866	A→G										100%	100%			100%	100%	100%	100%																			T454T (ACA→ACG)	J →	tail:host specificity protein	15	0
+16,869	A→G										100%	100%			100%	100%	100%	100%																			E455E (GAA→GAG)	J →	tail:host specificity protein	15	0
+16,893	T→C										100%	100%			100%	100%	100%	100%																			D463D (GAT→GAC)	J →	tail:host specificity protein	15	0
+16,902	C→G										100%	100%			100%	100%	100%	100%																			V466V (GTC→GTG)	J →	tail:host specificity protein	15	0
+16,905	C→T										100%	100%			100%	100%	100%	100%																			G467G (GGC→GGT)	J →	tail:host specificity protein	15	0
+16,908	A→C										100%	100%			100%	100%	100%	100%																			A468A (GCA→GCC)	J →	tail:host specificity protein	15	0
+16,938	T→C										100%	100%			100%	100%	100%	100%																			V478V (GTT→GTC)	J →	tail:host specificity protein	15	0
+16,972	A→C				100%						100%	100%			100%	100%	100%	100%																			S490R (AGC→CGC)	J →	tail:host specificity protein	8	1
+16,980	T→C				?						100%	100%			100%	100%	100%	100%																			G492G (GGT→GGC)	J →	tail:host specificity protein	15	0
+16,983	T→G				?						100%	100%			100%	100%	100%	100%																			G493G (GGT→GGG)	J →	tail:host specificity protein	15	0
+16,986	T→C										100%	100%			100%	100%	100%	100%																			R494R (CGT→CGC)	J →	tail:host specificity protein	15	0
+16,998	G→A				100%						100%	100%				100%	100%	100%																			V498V (GTG→GTA)	J →	tail:host specificity protein	8	0
+17,049	C→T											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	S515S (TCC→TCT)	J →	tail:host specificity protein	15	0
+17,055	T→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	G517G (GGT→GGC)	J →	tail:host specificity protein	15	0
+17,059	G→A											100%	100%			100%	100%	100%	100%		?	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	A519T (GCG→ACG)	J →	tail:host specificity protein	15	1
+17,081	+G											100%	100%			100%		100%	100%				100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	coding (1577/3399 nt)	J →	tail:host specificity protein	15	1
+17,082	A→C											100%	100%			100%	100%	100%	100%				100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	G526G (GGA→GGC)	J →	tail:host specificity protein	15	0
+17,085	Δ1 bp											100%	100%			100%	100%	100%	100%				100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	coding (1581/3399 nt)	J →	tail:host specificity protein	15	1
+17,088	C→G											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	G528G (GGC→GGG)	J →	tail:host specificity protein	15	0
+17,090	A→G											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	N529S (AAT→AGT)	J →	tail:host specificity protein	15	1
+17,136	A→G											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	V544V (GTA→GTG)	J →	tail:host specificity protein	15	0
+17,160	T→C											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	G552G (GGT→GGC)	J →	tail:host specificity protein	15	0
+17,183	A→G											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	E560G (GAG→GGG)	J →	tail:host specificity protein	15	1
+17,200	C→T											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	L566L (CTG→TTG)	J →	tail:host specificity protein	15	0
+17,211	A→C											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	R569R (CGA→CGC)	J →	tail:host specificity protein	15	0
+17,280	G→A											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	V592V (GTG→GTA)	J →	tail:host specificity protein	15	0
+17,328	A→C											100%	100%			100%	100%	100%	100%		?	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	E608D (GAA→GAC)	J →	tail:host specificity protein	15	1
+17,334	T→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	S610S (AGT→AGC)	J →	tail:host specificity protein	15	0
+17,343	G→A											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	V613V (GTG→GTA)	J →	tail:host specificity protein	15	0
+17,391	T→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	T629T (ACT→ACC)	J →	tail:host specificity protein	15	0
+17,409	T→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	Y635Y (TAT→TAC)	J →	tail:host specificity protein	15	0
+17,421	G→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	A639A (GCG→GCC)	J →	tail:host specificity protein	15	0
+17,424	A→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	R640R (CGA→CGC)	J →	tail:host specificity protein	15	0
+17,430	C→T											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	D642D (GAC→GAT)	J →	tail:host specificity protein	15	0
+17,433	A→G											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	T643T (ACA→ACG)	J →	tail:host specificity protein	15	0
+17,457	T→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	S651S (AGT→AGC)	J →	tail:host specificity protein	15	0
+17,466	C→T											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	L654L (CTC→CTT)	J →	tail:host specificity protein	15	0
+17,469	T→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	R655R (CGT→CGC)	J →	tail:host specificity protein	15	0
+17,478	2 bp→GG											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	coding (1974‑1975/3399 nt)	J →	tail:host specificity protein	15	1
+17,487	C→T											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	D661D (GAC→GAT)	J →	tail:host specificity protein	15	0
+17,494	A→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	S664R (AGT→CGT)	J →	tail:host specificity protein	15	1
+17,502	G→A											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	R666R (CGG→CGA)	J →	tail:host specificity protein	15	0
+17,535	A→T											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	T677T (ACA→ACT)	J →	tail:host specificity protein	15	0
+17,547	G→A											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	T681T (ACG→ACA)	J →	tail:host specificity protein	15	0
+17,556	G→T											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	A684A (GCG→GCT)	J →	tail:host specificity protein	15	0
+17,586	G→A											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	A694A (GCG→GCA)	J →	tail:host specificity protein	15	0
+17,613	T→G											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	D703E (GAT→GAG)	J →	tail:host specificity protein	15	1
+17,652	A→G											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	A716A (GCA→GCG)	J →	tail:host specificity protein	15	0
+17,659	2 bp→CA											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	coding (2155‑2156/3399 nt)	J →	tail:host specificity protein	15	1
+17,673	G→A											100%	100%			100%	100%	100%	100%		?	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	T723T (ACG→ACA)	J →	tail:host specificity protein	15	0
+17,679	C→G											100%	100%			100%	100%	100%	100%		?	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	G725G (GGC→GGG)	J →	tail:host specificity protein	15	0
+17,712	C→G											100%				100%	100%	100%																			A736A (GCC→GCG)	J →	tail:host specificity protein	15	0
+17,721	C→T											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	D739D (GAC→GAT)	J →	tail:host specificity protein	15	0
+17,759	A→G											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	Q752R (CAG→CGG)	J →	tail:host specificity protein	15	1
+17,775	A→G											100%	100%			100%	100%	100%	100%		?	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	R757R (AGA→AGG)	J →	tail:host specificity protein	15	0
+17,788	+CA															100%		100%									100%					100%					coding (2284/3399 nt)	J →	tail:host specificity protein	15	1
+17,793	G→A												?												100%	?			?	100%				100%	?		T763T (ACG→ACA)	J →	tail:host specificity protein	22	0
+17,795	Δ2 bp															100%		100%						100%			100%		100%		100%	100%	100%			100%	coding (2291‑2292/3399 nt)	J →	tail:host specificity protein	15	1
+17,796	T→C												100%			Δ	100%	Δ	?			?		Δ	100%	100%	Δ	100%	Δ	100%	Δ	Δ	Δ	100%	100%	Δ	R764R (CGT→CGC)	J →	tail:host specificity protein	15	0
+17,797	Δ1 bp											100%											100%														coding (2293/3399 nt)	J →	tail:host specificity protein	15	1
+17,805	T→C											100%	100%			100%	100%	100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	G767G (GGT→GGC)	J →	tail:host specificity protein	15	0
+17,862	C→T											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	Y786Y (TAC→TAT)	J →	tail:host specificity protein	15	0
+17,868	T→C											100%	100%			100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	Y788Y (TAT→TAC)	J →	tail:host specificity protein	15	0
+17,913	C→T											100%	100%				?		100%			?	100%		100%	100%											A803A (GCC→GCT)	J →	tail:host specificity protein	15	0
+17,916	C→T											100%	100%				?		100%				100%		100%	100%											V804V (GTC→GTT)	J →	tail:host specificity protein	15	0
+17,919	T→C											100%	100%						100%				100%		100%	100%											G805G (GGT→GGC)	J →	tail:host specificity protein	15	0
+17,921	G→A											100%	100%				?		100%				100%		100%	100%											R806Q (CGG→CAG)	J →	tail:host specificity protein	15	1
+17,923	G→C											100%	100%				?		100%				100%		100%	100%											A807P (GCG→CCG)	J →	tail:host specificity protein	15	1
+17,928	C→T											100%	100%				?		100%				100%		100%	100%											S808S (AGC→AGT)	J →	tail:host specificity protein	15	0
+17,937	2 bp→AT												100%										?														coding (2433‑2434/3399 nt)	J →	tail:host specificity protein	15	1
+17,937	4 bp→ATCC											100%							100%				?		100%	100%											coding (2433‑2436/3399 nt)	J →	tail:host specificity protein	15	1
+17,940	A→C												100%										?														E812D (GAA→GAC)	J →	tail:host specificity protein	15	1
+17,943	T→C											100%	?						100%				?		100%	100%											G813G (GGT→GGC)	J →	tail:host specificity protein	15	0
+17,946	C→T											100%	?						100%				?		100%	100%											Y814Y (TAC→TAT)	J →	tail:host specificity protein	15	0
+17,950	G→A											100%	100%						100%				?		100%	100%											D816N (GAT→AAT)	J →	tail:host specificity protein	15	1
+17,964	2 bp→AG											100%	?						100%						100%	100%											coding (2460‑2461/3399 nt)	J →	tail:host specificity protein	15	1
+18,255	G→T											100%	?						100%				100%		100%	100%											V917V (GTG→GTT)	J →	tail:host specificity protein	15	0
+18,257	2 bp→GT											100%	?						100%				100%		100%	100%											coding (2753‑2754/3399 nt)	J →	tail:host specificity protein	15	1
+18,265	A→G											100%	100%				?		100%				100%		100%	100%											N921D (AAC→GAT)	J →	tail:host specificity protein	15	1
+18,267	C→T											100%	100%				?		100%				100%		100%	100%											N921D (AAC→GAT)	J →	tail:host specificity protein	15	1
+18,285	C→A											100%	100%				100%		100%			100%	100%		100%	100%			100%								D927E (GAC→GAA)	J →	tail:host specificity protein	15	1
+18,297	4 bp→ATAT											100%	100%				100%		100%			100%	100%		100%	100%			100%								coding (2793‑2796/3399 nt)	J →	tail:host specificity protein	15	1
+18,309	C→T											100%				100%	100%	100%																			A935A (GCC→GCT)	J →	tail:host specificity protein	15	0
+18,330	C→T											100%					100%																				G942G (GGC→GGT)	J →	tail:host specificity protein	15	0
+18,342	C→A											100%					100%																				A946A (GCC→GCA)	J →	tail:host specificity protein	15	0
+18,463	A→G			100%																																	T987A (ACG→GCG)	J →	tail:host specificity protein	8	1
+18,503	C→T		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	A1000V (GCG→GTG)	J →	tail:host specificity protein	8	1
+18,535	A→C			100%																																	S1011R (AGC→CGC)	J →	tail:host specificity protein	8	1
+18,538	A→G										100%	100%	100%	100%	100%	100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	S1012G (AGT→GGT)	J →	tail:host specificity protein	15	1
+18,731	C→T													100%																							A1076V (GCG→GTG)	J →	tail:host specificity protein	15	1
+18,734	T→C		100%	100%	100%	100%	100%			100%	100%	100%			100%	100%		100%			100%	100%	100%	100%					100%	100%	100%		100%	100%	100%	100%	V1077A (GTA→GCA)	J →	tail:host specificity protein	8	1
+18,814	C→T										100%	100%	100%		100%	100%		100%	100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	H1104Y (CAT→TAT)	J →	tail:host specificity protein	15	1
+18,823	G→A		100%	100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%		100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	D1107K (GAT→AAG)	J →	tail:host specificity protein	8	1
+18,825	T→A										100%	100%	100%		100%	100%		100%	100%				100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	D1107K (GAT→AAA)	J →	tail:host specificity protein	15	1
+18,825	T→G			100%																																	D1107K (GAT→AAG)	J →	tail:host specificity protein	8	1
+18,868	A→C					100%	100%			100%		100%				100%		100%					100%	100%					100%	100%	100%		100%	100%	100%		I1122L (ATT→CTT)	J →	tail:host specificity protein	8	1
+18,868	A→G										100%																										I1122V (ATT→GTT)	J →	tail:host specificity protein	15	1
+18,868	A→T			100%									100%						100%						100%	100%	100%	100%				100%				100%	I1122F (ATT→TTT)	J →	tail:host specificity protein	8	1
+18,884	T→C							100%												100%																	L1127P (CTG→CCG)	J →	tail:host specificity protein	8	1
+19,260	T→C																		100%				100%		100%		100%	100%	100%	100%	100%		100%		100%	100%	L99P (CTG→CCG)	lom →	outer host membrane	22	1
+19,791	C→G														100%		100%																				R48G (CGT→GGT)	orf‑401 →	Tail fiber protein	15	1
+20,200	A→G							100%																													E184G (GAA→GGA)	orf‑401 →	Tail fiber protein	8	1
+39,183	(G)5→6														100%				100%			100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	100%	intergenic (+364/‑7)	orf‑64 → / → S	hypothetical protein/anti‑holin	15	0
+39,198	G→A																			100%																	M3I (ATG→ATA)	S →	anti‑holin	22	1
+40,140	T→C									100%																				100%			100%				R57R (CGT→CGC)	Rz →	cell lysis protein	8	0
+40,158	G→A									100%																				100%			100%				A63A (GCG→GCA)	Rz →	cell lysis protein	8	0
+40,161	C→G									100%																				100%			100%				L64L (CTC→CTG)	Rz →	cell lysis protein	8	0
+40,166	C→A									100%																				100%			100%				A66E (GCA→GAA)	Rz →	cell lysis protein	8	1
+40,189	G→A									100%																				100%			100%		100%		D74N (GAT→AAT)	Rz →	cell lysis protein	8	1
+40,194	T→G									100%																				100%			100%		100%		A75A (GCT→GCG)	Rz →	cell lysis protein	8	0
+40,434	T→C									100%						100%														100%			100%		100%		intergenic (+3/+29)	Rz → / ← bor	cell lysis protein/Bor protein precursor	8	0
+40,601	G→A									100%						100%												100%		100%			100%		100%		V52V (GTC→GTT)	bor ←	Bor protein precursor	8	0
+40,612	T→C									100%						100%												100%		100%			100%		100%		K49E (AAG→GAG)	bor ←	Bor protein precursor	8	1
+40,616	C→T									100%						100%												100%		100%			100%		100%		G47G (GGG→GGA)	bor ←	Bor protein precursor	8	0
+40,625	A→C									100%						100%												100%		100%			100%		100%		S44S (TCT→TCG)	bor ←	Bor protein precursor	8	0
+40,637	A→G									100%						100%												100%		100%			100%		100%		H40H (CAT→CAC)	bor ←	Bor protein precursor	8	0
+40,663	C→T															100%						100%						100%		100%			100%		100%		A32T (GCA→ACA)	bor ←	Bor protein precursor	15	1
+40,672	C→T															100%						100%						100%		100%			100%		100%		A29T (GCA→ACA)	bor ←	Bor protein precursor	15	1
+40,683	2 bp→CC															100%						?						100%		100%			100%		100%		coding (73‑74/294 nt)	bor ←	Bor protein precursor	15	1
+40,723	2 bp→TT															100%												100%									coding (33‑34/294 nt)	bor ←	Bor protein precursor	15	1
+40,898	G→C															100%												?									intergenic (‑142/+149)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,905	T→C															100%												?									intergenic (‑149/+142)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,909	T→A															100%												?									intergenic (‑153/+138)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,912	2 bp→GT															100%												?									intergenic (‑156/+134)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,919	Δ1 bp															100%												100%									intergenic (‑163/+128)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,929	C→T															100%												?									intergenic (‑173/+118)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,931	T→C															100%												?									intergenic (‑175/+116)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,933	+T															100%												100%									intergenic (‑177/+114)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,939	G→T															100%												100%									intergenic (‑183/+108)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,946	C→G															100%												100%									intergenic (‑190/+101)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,957	T→C															100%												100%									intergenic (‑201/+90)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+40,973	A→C															100%												?									intergenic (‑217/+74)	bor ← / ← lambdap78	Bor protein precursor/putative envelope protein	15	0
+42,104	2 bp→AC															100%												?									intergenic (+155/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,115	C→T															100%												100%		100%							intergenic (+166/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,120	T→A															100%												100%		100%							intergenic (+171/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,129	T→C															100%												100%		100%							intergenic (+180/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,131	2 bp→GG															100%												100%		100%							intergenic (+182/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,165	C→T															100%						100%						100%		100%			100%		100%		intergenic (+216/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,207	G→A									100%						100%						100%						100%		100%			100%		100%		intergenic (+258/–)	lambdap79 → / –	hypothetical protein/–	8	0
+42,300	C→A									100%						100%						100%								100%			100%		100%		intergenic (+351/–)	lambdap79 → / –	hypothetical protein/–	8	0
+42,432	C→G															100%														100%			100%		100%		intergenic (+483/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,434	2 bp→AG															100%														100%			100%		100%		intergenic (+485/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,437	C→T															100%														100%			100%		100%		intergenic (+488/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,449	T→C															100%																	100%		100%		intergenic (+500/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,464	C→T															100%																	100%		100%		intergenic (+515/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,472	C→T															100%																	100%		100%		intergenic (+523/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,476	A→G															100%																	100%		100%		intergenic (+527/–)	lambdap79 → / –	hypothetical protein/–	15	0
+42,491	T→C															100%																	100%		100%		intergenic (+542/–)	lambdap79 → / –	hypothetical protein/–	15	0

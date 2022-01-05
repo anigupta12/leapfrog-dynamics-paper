@@ -1,0 +1,19 @@
+position,mutation,B_D_8_1,B_D_8_2,B_D_8_3,B_D_8_4,B_D_8_5,B_D_8_6,B_D_8_7,B_D_8_8,B_D_8_9,B_D_8_10,B_D_15_1,B_D_15_2,B_D_15_3,B_D_15_4,B_D_15_5,B_D_15_6,B_D_15_7,B_D_15_8,B_D_15_9,B_D_15_10,B_D_22_1,B_D_22_2,B_D_22_3,B_D_22_4,B_D_22_5,B_D_22_6,B_D_22_7,B_D_22_8,B_D_22_9,B_D_22_10,B_D_28_1,B_D_28_2,B_D_28_3,B_D_28_4,B_D_28_5,B_D_28_6,B_D_28_7,B_D_28_8,B_D_28_9,B_D_28_10,B_D_37_1,B_D_37_2,B_D_37_3,B_D_37_4,B_D_37_5,B_D_37_6,B_D_37_7,B_D_37_8,B_D_37_9,B_D_37_10,annotation,gene,description
+"1,003,271",G_T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100%,,100%,,,100%,100%,100%,100%,100%,100%,,100%,,100%,N268K (AAC_AAA) ,ompF _,outer membrane porin 1a (Ia;b;F)
+"1,004,191",A_C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100%,,,,,,,,,,,,,,,,,,,intergenic (_117/+485),ompF/asnS,"outer membrane porin 1a (Ia,b,F)/asparaginyl_tRNA synthetase"
+"1,027,154",C_A,,,,,,,,,,,,,,,,,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L34M (CTG_ATG) ,uup _,fused predicted transporter subunits of ABC superfamily: ATP_binding components
+"1,173,078",G_A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100%,,,,,,,,,,,,,W214* (TGG_TAG) ,ptsG _,fused glucose_specific PTS enzymes: IIB component/IIC component
+"1,368,326",C_A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100%,,,,,,,,,,,N90K (AAC_AAA) ,pspE _,thiosulfate:cyanide sulfurtransferase (rhodanese)
+"1,881,802",_10 bp,,,,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coding (142_151/801 nt),manY _,mannose_specific enzyme IIC component of PTS
+"1,882,915",_16 bp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100%,,100%,,,100%,100%,100%,100%,100%,100%,,100%,,100%,coding (442_457/852 nt),manZ _,mannose_specific enzyme IID component of PTS
+"2,103,918",(CCAG)7_8,,,,,,,,,,,,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coding (185/216 nt),ECB_01992 _,hypothetical protein
+"2,103,918",(CCAG)7_10,,,100%,,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coding (185/216 nt),ECB_01992 _,hypothetical protein
+"2,247,493",_1 bp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100%,,,,,,,,,,,,,,,,,coding (141/624 nt),ccmA _,heme exporter subunit
+"2,401,525",3 bp_AA,,,,,,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coding (1299/2145 nt),yfcX,fused enoyl_CoA hydratase and epimerase and isomerase/3_hydroxyacyl_CoA dehydrogenase
+"2,401,529",A_T,,,,,,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I432N (ATC_AAC) ,yfcX,fused enoyl_CoA hydratase and epimerase and isomerase/3_hydroxyacyl_CoA dehydrogenase
+"3,023,945",_777 bp,,,,,,,,,,,,,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,,100%,100%,100%,,100%,,,100%,,,,,,,,,100%,,,insB_22–[ECB_02825],"insB_22, insA_22, [ECB_02825]"
+"3,482,706",(AGTGGGAACTGGCGGCGGAGCTGCC)1_2,,100%,100%,100%,100%,100%,,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,,100%,,100%,100%,,,,,,,100%,,100%,,coding (1022/2706 nt),malT _,transcriptional regulator MalT
+"3,482,802",_141 bp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100%,,100%,,,100%,100%,100%,100%,100%,100%,,100%,,100%,coding (1118_1258/2706 nt),malT _,transcriptional regulator MalT
+"3,482,943",A_C,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Q420P (CAA_CCA) ,malT _,transcriptional regulator MalT
+"4,214,272",_12 bp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100%,100%,100%,100%,100%,,100%,,100%,coding (1584_1595/1650 nt),pgi _,glucose_6_phosphate isomerase
+"4,228,027",_1 bp,,,,,,,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coding (1125/1341 nt),lamB _,maltoporin precursor

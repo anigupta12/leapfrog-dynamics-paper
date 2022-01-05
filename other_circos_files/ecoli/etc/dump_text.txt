@@ -1,0 +1,44 @@
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+<<include plot.conf>>
+
+
+
+##### To plot all the concentric circles of clonal populations. These concentric circles are called highlights in circos software; highlights are type of a track. The spacing between the concentric rings is automated but you have to include "plot.conf" file as many times as the number of concentric rings (or number of clonal populations to plot) ######
+
+# track_start
+ts = 0.5
+
+# track_width
+tw = 0.055
+
+# track_step (difference between 2 tracks)
+td = 0.06
+
+<plots>
+
+stroke_thickness = 0p
+stroke_color     = black
+type = highlight
+
+<<include plot_first.conf>>
+
+
+</plots>

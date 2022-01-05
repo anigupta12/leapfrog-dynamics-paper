@@ -1,0 +1,19 @@
+﻿position,mutation,an_b,B_D_8_1,B_D_8_2,B_D_8_3,B_D_8_4,B_D_8_6,B_D_8_7,B_D_15_1,B_D_15_2,B_D_15_3,B_D_15_7,B_D_22_1,B_D_28_1,B_D_28_2,B_D_28_4,B_D_28_6,B_D_28_8,B_D_28_9,B_D_28_10,B_D_37_1,B_D_37_2,B_D_37_7,B_D_37_9,annotation,gene,description
+"1,003,271",G→T,,,,,,,,,,,,,,,,100%,100%,,,100%,100%,,,N268K (AAC→AAA) ,ompF ←,outer membrane porin 1a (Ia;b;F)
+"1,004,191",A→C,,,,,,,,,,,,,,100%,,,,,,,,,,intergenic (‑117/+485),ompF/asnS,"outer membrane porin 1a (Ia,b,F)/asparaginyl‑tRNA synthetase"
+"1,027,154",C→A,,,,,,,,,,,100%,,,,,,,,,,,,,L34M (CTG→ATG) ,uup →,fused predicted transporter subunits of ABC superfamily: ATP‑binding components
+"1,173,078",G→A,,,,,,,,,,,,,,,,,100%,,,,,,,W214* (TGG→TAG) ,ptsG →,fused glucose‑specific PTS enzymes: IIB component/IIC component
+"1,368,326",C→A,,,,,,,,,,,,,,,,,,,100%,,,,,N90K (AAC→AAA) ,pspE →,thiosulfate:cyanide sulfurtransferase (rhodanese)
+"1,881,802",Δ10 bp,,,,,100%,,,,,,,,,,,,,,,,,,,coding (142‑151/801 nt),manY →,mannose‑specific enzyme IIC component of PTS
+"1,882,915",Δ16 bp,,,,,,,,,,,,,,,,100%,100%,,,100%,100%,,,coding (442‑457/852 nt),manZ →,mannose‑specific enzyme IID component of PTS
+"2,103,918",(CCAG)7→8,,,,,,,,,100%,,,,,,,,,,,,,,,coding (185/216 nt),ECB_01992 →,hypothetical protein
+"2,103,918",(CCAG)7→10,,,,100%,,,,,,,,,,,,,,,,,,,,coding (185/216 nt),ECB_01992 →,hypothetical protein
+"2,247,493",Δ1 bp,,,,,,,,,,,,,,,100%,,,,,,,,,coding (141/624 nt),ccmA ←,heme exporter subunit
+"2,401,525",3 bp→AA,,,,,,100%,,,,,,,,,,,,,,,,,,coding (1297‑1299/2145 nt),yfcX,fused enoyl‑CoA hydratase and epimerase and isomerase/3‑hydroxyacyl‑CoA dehydrogenase
+"2,401,529",A→T,,,,,,100%,,,,,,,,,,,,,,,,,,I432N (ATC→AAC) ,yfcX,fused enoyl‑CoA hydratase and epimerase and isomerase/3‑hydroxyacyl‑CoA dehydrogenase
+"3,023,945",Δ777 bp,,,,,,,,,,100%,100%,100%,100%,,100%,,,,100%,,,,100%,,insB‑22–[ECB_02825],"insB‑22, insA‑22, [ECB_02825]"
+"3,482,706",(AGTGGGAACTGGCGGCGGAGCTGCC)1→2,,,100%,100%,100%,100%,,100%,100%,100%,100%,100%,100%,100%,100%,,,100%,100%,,,100%,100%,coding (1022/2706 nt),malT →,transcriptional regulator MalT
+"3,482,802",Δ141 bp,,,,,,,,,,,,,,,,100%,100%,,,100%,100%,,,coding (1118‑1258/2706 nt),malT →,transcriptional regulator MalT
+"3,482,943",A→C,,100%,,,,,,,,,,,,,,,,,,,,,,Q420P (CAA→CCA) ,malT →,transcriptional regulator MalT
+"4,214,272",Δ12 bp,,,,,,,,,,,,,,,,,,,,,100%,,,coding (1584‑1595/1650 nt),pgi →,glucose‑6‑phosphate isomerase
+"4,228,027",Δ1 bp,,,,,,,100%,,,,,,,,,,,,,,,,,coding (1125/1341 nt),lamB →,maltoporin precursor
